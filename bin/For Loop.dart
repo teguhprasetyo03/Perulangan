@@ -31,8 +31,8 @@ print('Awal dari program\n');
 
     // kita buat descending, urutkan dari yang terbesar
     // ke yang terkecil
-    for(var j = 1; j <=10; j++){
-      print(10 -j );
+    for(var j = 10; j >= 1; j--){
+      print(j);
     }
     print('================');
     
